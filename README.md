@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bharathk113
-- 👀 I’m interested in solving real-world problems through Remote Sensing and Geospatial Technologies
+- 👀 I’m interested in solving real-world problems through Remote Sensing and Geospatial technologies
 - 🌱 I’m currently learning javascript for Earth Engine
 - 💞️ I’m looking to collaborate on my water extraction algorithms from satellite data
-- 📫 More details about me @ [my page](#https://bharathk113.github.io)
+- 📫 More details about me @ [bharathk113.github.io](#https://bharathk113.github.io)
