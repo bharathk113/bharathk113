@@ -2,4 +2,4 @@
 - 👀 I’m interested in solving real-world problems through Remote Sensing and Geospatial technologies
 - 🌱 I’m currently learning javascript for Earth Engine
 - 💞️ I’m looking to collaborate on my water extraction algorithms from satellite data
-- 📫 More details about me @ [bharathk113.github.io](#https://bharathk113.github.io)
+- 📫 More details about me @ <a href="https://bharathk113.github.io" target="_blank">My Page</a>
